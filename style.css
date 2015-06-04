@@ -13,6 +13,7 @@ body h1 {
 
 a {
 	text-decoration: underline;
+	color: white;
 }
 
 a:hover {
@@ -31,14 +32,8 @@ p {
 	padding-right: 1px;
 	padding-left: 1px;
 	padding-top:7px;
+	padding-bottom: 15px;
 	border: solid;
-}
-
-#pageHeader {
-	background-color: #0253A4;
-	margin-right:0px;
-	margin-top: 0px;
-	margin-bottom: 1px;
 }
 
 #Curry {
@@ -56,6 +51,13 @@ p {
 #navBar {
 	width:100%;
 	overflow: hidden;
+}
+
+#homeNav {
+	border: solid;
+	padding: 1px;
+	border-color: white;
+
 }
 
 nav ul li {
@@ -86,4 +88,35 @@ nav ul li a {
 nav ul li a:hover {
 	background-color: #CC2B31;
 	color: #fff;
+}
+
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#news1 {
+	border-top: solid;
+	border-bottom: solid;
+	border-width: 1px;
+	padding: 5px;
+	border-color: black;
+}
+
+#news2{
+	border-bottom: solid;
+	border-color: black;
+	border-width: 1px;
+}
+
+#east {
+	padding-left: 200px;
+
+}
+#west {
+	padding-left: 500px;
+	margin-top: -353px;
+
 }
