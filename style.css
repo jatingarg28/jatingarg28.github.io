@@ -27,8 +27,8 @@ p {
 
 #mainContent {
 	background-color: #032969;
-	margin-right:200px;
-	margin-left:200px;
+	margin-right:20%;
+	margin-left:20%;
 	padding-right: 1px;
 	padding-left: 1px;
 	padding-top:7px;
@@ -53,12 +53,6 @@ p {
 	overflow: hidden;
 }
 
-#homeNav {
-	border: solid;
-	padding: 1px;
-	border-color: white;
-
-}
 
 nav ul li {
 	display: inline;
