@@ -26,9 +26,9 @@ p {
 }
 
 #mainContent {
+	background-color: #032969;
 	width: 925px;
 	max-width: 925px;
-	background-color: #032969;
 	margin-right:20%;
 	margin-left:20%;
 	padding-right: 1px;
